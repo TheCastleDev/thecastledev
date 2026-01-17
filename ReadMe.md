@@ -1,10 +1,11 @@
-# 💫 About Me:
+# 👦🏻 About Me:
 I mainly develop with web technologies<br>I am developing a pirate game page.
 
-# 🌐 My public projects
+# 🚀 My public projects
 [![Website](https://img.shields.io/badge/The_Castle_of_Games-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://thecastleofgames.netlify.app/)
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thecastledev@gmail.com) 
+
+## 📩 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thecastledev@gmail.com)
 
 # 💻 Tech Stack:
 ![Netlify](https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
